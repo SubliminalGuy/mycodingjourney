@@ -3,12 +3,14 @@
 ---
 
 - [My coding journey in notes](#my-coding-journey-in-notes)
+    - [Docker](#docker)
     - [Git](#git)
     - [React](#react)
     - [Redis](#redis)
-    - [Docker](#docker)
 
 ---
+
+### Docker
 
 ### Git
 
@@ -24,5 +26,3 @@
 - [What does the useTransition hook do?](react/useTransition.md)
 
 ### Redis
-
-### Docker
