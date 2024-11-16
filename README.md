@@ -12,7 +12,4 @@
 
 ### Git
 
-- [How to Merge a feature Branch into Main](git/How to Merge Feature Branch to Main.md)
-
-- [Pause JavaScript From The Source DevTools Panel](chrome/pause-javascript-from-the-source-devtools-panel.md)
-- [Navigate The Browser History With Vimium](chrome/navigate-the-browser-history-with-vimium.md)
+- [How to Merge a feature Branch into Main](git/how-to-merge-feature-branch.md)
