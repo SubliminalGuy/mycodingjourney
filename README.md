@@ -5,6 +5,7 @@
 - [My coding journey in notes](#my-coding-journey-in-notes)
     - [Git](#git)
     - [React](#react)
+    - [Redis](#redis)
 
 ---
 
@@ -20,3 +21,5 @@
 - [What is the purpose of the useMemo hook in React?](react/useMemo.md)
 - [What does the useOptimistic hook do?](react/useOptimistic.md)
 - [What does the useTransition hook do?](react/useTransition.md)
+
+### Redis
